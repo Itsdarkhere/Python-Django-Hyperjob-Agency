@@ -2,7 +2,7 @@
 
 Project from hyperskill.org
 
-Project completions:  367 
+Amount of people who have completed the project:  367 
 
 
 ## Task desription:
